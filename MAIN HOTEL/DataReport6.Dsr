@@ -182,7 +182,7 @@ Begin {78E93846-85FD-11D0-8487-00A0C90DC8A9} DataReport6
             Name            =   "Arial"
             Size            =   8.25
             Charset         =   0
-            Weight          =   400
+            Weight          =   401
             Underline       =   0   'False
             Italic          =   0   'False
             Strikethrough   =   0   'False
